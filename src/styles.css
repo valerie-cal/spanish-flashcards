@@ -1,0 +1,19 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.arrow {
+  font-size: 36px;
+  cursor: pointer;
+}
+
+.flashcard {
+  height: 100px;
+  width: 200px;
+  font-size: large;
+  font-weight: bold;
+  border-color: blue;
+  cursor: pointer;
+}
+
